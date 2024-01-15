@@ -1,5 +1,6 @@
-red
 green
 blue
 orange
 white
+naveen
+shravya
